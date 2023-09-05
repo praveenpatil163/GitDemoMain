@@ -8,6 +8,8 @@ public class GitPractice {
 		System.out.println("Practicing git functionalities");
 		
 		System.out.println("New Request-1 in the workspace");
+		
+		System.out.println("New Request-2, in the workspace1");
 
 	}
 

@@ -14,5 +14,7 @@ public class Simple {
 		driver.findElement(By.linkText("REGISTER")).click();
 		
 		System.out.println("New Request-2, New push from git in the eclipse workspace");
+		
+		System.out.println(" New Request -3. New push from git in the eclipse workspace-1");
 	}
 }
