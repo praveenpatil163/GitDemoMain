@@ -12,5 +12,7 @@ public class Simple {
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://demo.guru99.com/test/newtours/");
 		driver.findElement(By.linkText("REGISTER")).click();
+		
+		System.out.println("New Request-2, New push from git in the eclipse workspace");
 	}
 }
